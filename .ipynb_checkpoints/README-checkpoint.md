@@ -31,7 +31,7 @@ Denotes whether the tweet post is verified or not (1 or 0).
 
 
 ### Use Policy
-This dataset is released in compliance with [Twitter’s Developer Terms & Conditions] (https://developer.twitter.com/en/developer-terms/agreement-and-policy). The data repository will be continuously updated every week. The data repository, containing codes, and [CoronaVis](https://mykabir.github.io/coronavis), 2020 W2C lab, Missouri University of Science and Technology, all rights reserved, can be used for educational, academic, and government research purposes with proper citation (Please cite [this paper](https://arxiv.org/abs/2004.13932)). Any commercial use of any materials is strictly prohibited. Taking and sharing a screenshot is allowed with appropriate citation.  
+This dataset is released in compliance with [Twitter’s Developer Terms & Conditions](https://developer.twitter.com/en/developer-terms/agreement-and-policy). The data repository will be continuously updated every week. The data repository, containing codes, and [CoronaVis](https://mykabir.github.io/coronavis), 2020 W2C lab, Missouri University of Science and Technology, all rights reserved, can be used for educational, academic, and government research purposes with proper citation (Please cite [this paper](https://arxiv.org/abs/2004.13932)). Any commercial use of any materials is strictly prohibited. Taking and sharing a screenshot is allowed with appropriate citation.  
 
 @misc{kabir2020coronavis,
     title={CoronaVis: A Real-time COVID-19 Tweets Analyzer},
